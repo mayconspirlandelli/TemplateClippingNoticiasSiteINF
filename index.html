@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Clipping de notícias do Instituto de Informática da UFG">
+    <title>INF/UFG — Clipping de Notícias</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="container header-content">
+            <div>
+                <span class="eyebrow">INSTITUTO DE INFORMÁTICA — UFG</span>
+                <h1 id="clippingTitulo">Clipping de Notícias</h1>
+                <p>O que saiu na mídia sobre a universidade, em um só lugar.</p>
+            </div>
+            <div class="date" id="clippingData"></div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- RESUMO GERAL -->
+        <section class="summary" aria-label="Resumo geral">
+            <div class="summary-card">
+                <span>Notícias</span>
+                <strong id="totalNoticias">0</strong>
+            </div>
+            <div class="summary-card">
+                <span>Veículos</span>
+                <strong id="totalVeiculos">0</strong>
+            </div>
+            <div class="summary-card">
+                <span>Categorias</span>
+                <strong id="totalCategorias">0</strong>
+            </div>
+            <div class="summary-card">
+                <span>Destaques</span>
+                <strong id="totalDestaques">0</strong>
+            </div>
+        </section>
+
+        <!-- BUSCA E FILTROS -->
+        <section class="toolbar" aria-label="Busca e filtros">
+            <input
+                type="search"
+                id="search"
+                placeholder="Buscar notícia por título, resumo ou veículo..."
+                autocomplete="off"
+            >
+            <select id="categoria">
+                <option value="">Todas as categorias</option>
+            </select>
+        </section>
+
+        <!-- DESTAQUES -->
+        <section class="section-heading" id="destaquesSection">
+            <h2>Destaques</h2>
+            <span class="rule"></span>
+        </section>
+        <section class="destaques-grid" id="destaquesGrid"></section>
+
+        <!-- OUTRAS NOTÍCIAS -->
+        <section class="section-heading">
+            <h2>Outras notícias</h2>
+            <span class="rule"></span>
+        </section>
+        <section class="news-list" id="newsList"></section>
+
+        <section class="empty-state" id="emptyState" hidden>
+            <p>Nenhuma notícia encontrada.</p>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Template de clipping jornalístico — INF/UFG.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
