@@ -1,0 +1,668 @@
+<p><strong><span style="font-size: 24pt;">CLIPPING DE NOTÍCIAS</span></strong></p>
+<p>Destaques na imprensa: veja como nossas iniciativas têm ganhado espaço na mídia</p>
+<table style="border-collapse: collapse; width: 99.849%; height: 4112px;" border="1">
+<tbody>
+<tr style="height: 62px;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.acritica.com/image/policy:1.412392.1786811700:1786811700/image.jpg?f=default&amp;w=1200" alt="TRE-AM inaugura sala contra desinformação; uso de IA será fiscalizado" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; width: 72.0929%; height: 62px;">
+<h2><span style="font-size: 14pt;"><a title="TRE-AM inaugura sala contra desinformação; uso de IA será fiscalizado" href="https://www.acritica.com/geral/tre-am-inaugura-sala-contra-desinformac-o-uso-de-ia-sera-fiscalizado-1.412391">TRE-AM inaugura sala contra desinformação; uso de IA será fiscalizado</a></span><span style="font-size: 14pt; color: #0000ff;"></span></h2>
+<h2><span style="font-size: 14pt; color: #0000ff;">(15 de agosto de 2026 )</span></h2>
+</td>
+</tr>
+<tr style="height: 62px;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/243/m/saude_14-08-2026.png?1786988827" alt="Pesquisa da UFG cria app para acompanhar pacientes em cuidados à distância" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; width: 72.0929%; height: 62px;">
+<h2><span style="font-size: 14pt;"><a title="Saúde na era da inteligência artificial" href="https://jornal.ufg.br/n/203566-saude-na-era-da-inteligencia-artificial">Saúde na era da inteligência artificial</a></span><span style="font-size: 14pt; color: #0000ff;"> (14 de agosto de 2026 )</span></h2>
+</td>
+</tr>
+<tr style="height: 62px;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://uploads.maisgoias.com.br/2026/04/08135313/dimensao-2026-04-08t105003-597-960x640.webp" alt="UFG vai formar pesquisadores da área de IA para apresentar projetos no exterior" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; width: 72.0929%; height: 62px;">
+<h2><span style="font-size: 14pt;"><a title="UFG vai formar pesquisadores da área de IA para apresentar projetos no exterior" href="https://www.maisgoias.com.br/cidades/goiania/ufg-vai-formar-pesquisadores-da-area-de-ia-para-apresentar-projetos-no-exterior/">UFG vai formar pesquisadores da área de IA para apresentar projetos no exterior</a></span><span style="font-size: 14pt; color: #0000ff;"> </span></h2>
+<h2><span style="font-size: 14pt; color: #0000ff;">(12 de agosto de 2026)</span></h2>
+</td>
+</tr>
+<tr style="height: 62px;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Alulnos_de_IA_faturam_um_milhao_Correio_Braziliense.JPG" alt="Alulnos de IA faturam um milhao Correio Braziliense" width="200" height="125" /></p>
+</td>
+<td style="text-align: center; width: 72.0929%; height: 62px;">
+<h2><span style="font-size: 14pt;"><a title="Alunos de IA faturam R$ 1 milhão na faculdade, e curso que superou medicina em nota de corte abre vestibular" href="https://www.correiobraziliense.com.br/euestudante/ensino-superior/2026/08/amp/7473731-alunos-de-ia-faturam-rs-1-milhao-na-faculdade-e-curso-que-superou-medicina-em-nota-de-corte-abre-vestibular.html">Alunos de IA faturam R$ 1 milhão na faculdade, e curso que superou medicina em nota de corte abre vestibular</a></span><span style="font-size: 14pt; color: #0000ff;"> ( 05 de agosto de 2026)</span></h2>
+</td>
+</tr>
+<tr style="height: 62px;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/app_ufg_inf_idosos_a_distancia.webp" alt="Pesquisa da UFG cria app para acompanhar pacientes em cuidados à distância" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; width: 72.0929%; height: 62px;">
+<h2><span style="font-size: 14pt;"><a title="Pesquisa da UFG cria app para acompanhar pacientes em cuidados à distância" href="https://www.maisgoias.com.br/cidades/pesquisa-da-ufg-cria-app-para-acompanhar-pacientes-em-cuidados-a-distancia/">Pesquisa da UFG cria app para acompanhar pacientes em cuidados à distância (27 de julho de 2026)</a></span><span style="font-size: 14pt; color: #0000ff;"> </span></h2>
+</td>
+</tr>
+<tr style="height: 141px;">
+<td style="width: 27.7561%; height: 141px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/ia-namoro.webp" alt=" ia-namoro.webp" width="200" height="113" /></p>
+</td>
+<td style="text-align: center; width: 72.0929%; height: 141px;">
+<h2><a href="https://neofeed.com.br/finde/amor-artificial-quando-o-parceiro-perfeito-e-um-algoritmo/?mcp_token=eyJwaWQiOjQ5ODg5NTEsInNpZCI6MTQ2MTM2NzA4OCwiYXgiOiI4M2ViZWU1MDEyOWM2NjE3MzJmMTM3YzFlNjMzYzE3YiIsInRzIjoxNzgzODY4ODAwLCJleHAiOjE3ODYyODgwMDB9.C2Uh2YEWz5cGUlHYhRWiPEb92cXYHM8L1XAtYlBPxZY"><span style="font-size: 14pt; color: #0000ff;">Amor artificial: quando o parceiro perfeito é um algoritmo<br />(12 de julho de 2026)</span></a></h2>
+</td>
+</tr>
+<tr style="height: 193px;">
+<td style="width: 27.7561%; height: 193px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/image_%281%29.jpg" alt=" image (1).jpg" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; width: 72.0929%; height: 193px;">
+<h2><a href="https://opopular.com.br/economia/mercado-de-ia-tem-como-novo-alvo-emoc-es-para-interac-es-afetivas-1.3413646"><span style="font-size: 14pt; color: #0000ff;">Mercado de IA tem como novo alvo emoções para interações 'afetivas' | </span></a></h2>
+<h2><span style="color: #0000ff;">(22 de Maio de 2026)</span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 61px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.32.49.png" alt=" Captura de Tela 2026-01-29 às 10.32.49.png" width="200" height="130" /></p>
+</td>
+<td style="text-align: center; height: 61px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://opopular.com.br/cidades/por-que-inteligencia-artificial-ultrapassou-medicina-como-curso-mais-concorrido-da-ufg-1.3366588">Por que Inteligência Artificial ultrapassou Medicina como curso mais concorrido da UFG?<br /><strong>(27 de janeiro de 2026)</strong></a></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.59.54.png" alt=" Captura de Tela 2026-01-29 às 10.59.54.png" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 62px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://cbngoiania.com.br/tarde-cbn/ia-tem-se-consolidado-como-ferramenta-crucial-para-seguranca-publica-diz-especialista-1.3366445">IA tem se consolidado como ferramenta crucial para segurança pública, diz especialista <br /><strong>(26 de janeiro de 2026)</strong></a></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.54.51.png" alt=" Captura de Tela 2026-01-29 às 10.54.51.png" width="200" height="112" /></p>
+</td>
+<td style="text-align: center; height: 62px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2026/01/23/cientistas-de-goias-estao-criando-a-ia-do-dna-brasileiro-o-que-esperar.htm">Cientistas de Goiás criam IA capaz de ler e interpretar DNA brasileiro<br /><strong>(23 de janeiro de 2026)</strong></a></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 90px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.32.49.png" alt=" Captura de Tela 2026-01-29 às 10.32.49.png" width="200" height="130" /></p>
+</td>
+<td style="text-align: center; height: 90px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://opopular.com.br/cidades/curso-de-inteligencia-artificial-da-ufg-ultrapassa-medicina-e-exige-a-maior-nota-para-conquistar-uma-vaga-1.3365572">Curso de Inteligência Artificial da UFG ultrapassa Medicina e exige a maior nota <br />para conquistar uma vaga </a></span><br /><strong><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://opopular.com.br/cidades/curso-de-inteligencia-artificial-da-ufg-ultrapassa-medicina-e-exige-a-maior-nota-para-conquistar-uma-vaga-1.3365572">(23 de janeiro de 2026)</a></span></strong></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.29.47.png" alt=" Captura de Tela 2026-01-29 às 10.29.47.png" width="200" height="132" /></p>
+</td>
+<td style="text-align: center; height: 62px; width: 72.0929%;">
+<h1><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://portal6.com.br/2026/01/20/coordenador-da-primeira-graduacao-de-ia-no-brasil-avalia-que-expansao-da-area-e-boa-mas-precisa-ser-feita-com-calma/">Coordenador da primeira graduação de IA no Brasil avalia que expansão da área é boa, </a></span><br /><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://portal6.com.br/2026/01/20/coordenador-da-primeira-graduacao-de-ia-no-brasil-avalia-que-expansao-da-area-e-boa-mas-precisa-ser-feita-com-calma/">mas precisa ser feita com calma</a></span><br /><strong><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://portal6.com.br/2026/01/20/coordenador-da-primeira-graduacao-de-ia-no-brasil-avalia-que-expansao-da-area-e-boa-mas-precisa-ser-feita-com-calma/">(20 de janeiro de 2026)</a></span></strong></h1>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 62px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.28.02.png" alt=" Captura de Tela 2026-01-29 às 10.28.02.png" width="200" height="132" /></p>
+</td>
+<td style="text-align: center; height: 62px; width: 72.0929%;">
+<h1><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://revistazelo.com.br/curso-de-medicina-da-ufg-recebe-nota-maxima-em-avaliacao-do-mec/">Curso de Medicina da UFG recebe nota máxima em avaliação do MEC<br /><strong>(20 de janeiro de 2026)</strong></a></span></h1>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 75px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.58.09.png" alt=" Captura de Tela 2026-01-29 às 10.58.09.png" width="200" height="115" /></p>
+</td>
+<td style="text-align: center; height: 75px; width: 72.0929%;">
+<p><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www1.folha.uol.com.br/educacao/2026/01/cursos-de-graduacao-em-inteligencia-artificial-no-sisu-sextuplicam-em-um-ano.shtml">Bacharelados em inteligência artificial no Sisu sextuplicam em um ano</a></span><br /><strong><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www1.folha.uol.com.br/educacao/2026/01/cursos-de-graduacao-em-inteligencia-artificial-no-sisu-sextuplicam-em-um-ano.shtml">(19 de janeiro de 2026)</a></span></strong></p>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 142px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2026-01-29_a%CC%80s_10.25.30.png" alt="Rondonópolis" width="200" height="131" /></p>
+</td>
+<td style="text-align: center; height: 142px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://olhardireto.com.br/noticias/exibir.asp?id=569361&amp;edt=29&amp;noticia=cursos-de-graduacao-em-inteligencia-artificial-no-sisu-sextuplicam-em-um-ano-federal-de-rondonopolis-oferece-formacao-na-area">Cursos de graduação em inteligência artificial no Sisu sextuplicam em um ano; </a></span><br /><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://olhardireto.com.br/noticias/exibir.asp?id=569361&amp;edt=29&amp;noticia=cursos-de-graduacao-em-inteligencia-artificial-no-sisu-sextuplicam-em-um-ano-federal-de-rondonopolis-oferece-formacao-na-area">Federal de Rondonópolis oferece formação na área</a></span><br /><strong><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://olhardireto.com.br/noticias/exibir.asp?id=569361&amp;edt=29&amp;noticia=cursos-de-graduacao-em-inteligencia-artificial-no-sisu-sextuplicam-em-um-ano-federal-de-rondonopolis-oferece-formacao-na-area">(19 de janeiro de 2026)</a></span></strong></h3>
+<h2> </h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 193px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/foto-predio-inf-jornal-correio.png" alt="UFG inaugura primeiro curso de especialização em Engenharia de Software do Brasil" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 193px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.correiobraziliense.com.br/euestudante/ensino-superior/2025/12/7304260-ufg-inaugura-primeiro-curso-de-especializacao-em-engenharia-de-software-do-brasil.html">UFG inaugura primeiro curso de especialização em Engenharia de Software do Brasil <br /><strong>(01 de dezembro de 2025)</strong></a></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 193px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/thumb_grande_Will_Rosa_-_206.jpg" alt=" thumb_grande_Will_Rosa_-_206.jpg" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 193px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://portal.al.go.leg.br/noticias/160168/parlamento-sedia-audiencia-publica-da-camara-dos-deputados-no-centro-oeste-para-debate-sobre-a-regulacao-da-ia">Parlamento sedia audiência da Câmara dos Deputados para debate sobre a regulação da IA <br /><strong>(07 de Novembro de 2025)</strong></a></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 155px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/f8376176-6107-43b4-b708-5d18be7eccfb-1200x600-c-default.jpg" alt=" f8376176-6107-43b4-b708-5d18be7eccfb-1200x600-c-default.jpg" width="200" height="100" /></p>
+</td>
+<td style="text-align: center; height: 155px; width: 72.0929%;">
+<h1><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://oestegoiano.com.br/outras-publicacoes/caiado-recebe-empresarios-e-destaca-goias-como-polo-de-ia/">Caiado recebe empresários e destaca Goiás como polo de IA</a> <br /><strong>(4 de Novembro de 2025)</strong></span></h1>
+<h2><span style="font-size: 14pt; color: #0000ff;"> </span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 160px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/f8376176-6107-43b4-b708-5d18be7eccfb-1200x600-c-default.jpg" alt=" f8376176-6107-43b4-b708-5d18be7eccfb-1200x600-c-default.jpg" width="200" height="100" /></p>
+</td>
+<td style="text-align: center; height: 160px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" title="Caiado recebe empresários de SP e RJ e destaca Goiás como polo nacional de Inteligência Artificial" href="https://goias.gov.br/casacivil/caiado-recebe-empresarios-de-sp-e-rj-e-destaca-goias-como-polo-nacional-de-inteligencia-artificial/">Caiado recebe empresários de SP e RJ e destaca Goiás como polo nacional de Inteligência Artificial</a> <br /><strong>(4 de Novembro de 2025)</strong></span></h2>
+<h2><span style="font-size: 14pt; color: #0000ff;"> </span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 168px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-28_a%CC%80s_15.52.55.png" alt=" Captura de Tela 2025-10-28 às 15.52.55.png" width="200" height="140" /></p>
+</td>
+<td style="text-align: center; height: 168px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://daqui.opopular.com.br/geral/tres-projetos-de-ia-da-ufg-s-o-aprovados-por-conferencia-da-area-na-china-1.3328871">Três projetos de IA da UFG são aprovados por conferência da área na China </a><br /><strong>(27 de outubro de 2025)</strong></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 165px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-11-13_a%CC%80s_10.55.14.png" alt=" Captura de Tela 2025-11-13 às 10.55.14.png" width="200" height="119" /></p>
+</td>
+<td style="text-align: center; height: 165px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://leituraestrategica.com.br/edicao-49/">Goiás na rota global da economia Gamer <br /><strong>(25 de Outubro de 2025)</strong></a></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 155px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-17_a%CC%80s_10.16.37.png" alt=" Captura de Tela 2025-10-17 às 10.16.37.png" width="200" height="127" /></p>
+</td>
+<td style="text-align: center; height: 155px; width: 72.0929%;">
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.tre-go.jus.br/comunicacao/noticias/2025/Outubro/tre-go-participou-da-expojud-2025-com-apresentacao-da-guaia">TRE-GO participou da Expojud 2025 com apresentação da GuaIA</a><br /><strong>(16 de outubro de 2025)</strong></span></h2>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 185px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-15_a%CC%80s_13.27.41.png" alt=" Captura de Tela 2025-10-15 às 13.27.41.png" width="200" height="157" /></p>
+</td>
+<td style="text-align: center; height: 185px; width: 72.0929%;">
+<h1><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://unisatc.com.br/unisatc-conhece-modelo-de-referencia-em-inteligencia-artificial-em-goias/">UniSatc conhece modelo de referência em Inteligência Artificial em Goiás</a><br /><strong>(14 de outubro de 2025)</strong></span></h1>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 161px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-15_a%CC%80s_13.23.44.png" alt=" Captura de Tela 2025-10-15 às 13.23.44.png" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 161px; width: 72.0929%;">
+<h2> </h2>
+<h2><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.tre-go.jus.br/comunicacao/noticias/2025/Outubro/assinatura-da-carta-de-pirenopolis-marca-o-encerramento-do-89o-coptrel">Assinatura da Carta de Pirenópolis marca o encerramento do 89º COPTREL</a><br /><strong>(13 de outubro de 2025)</strong></span></h2>
+<h1><span style="font-size: 14pt; color: #0000ff;"> </span></h1>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 178px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-06_a%CC%80s_20.40.46.png" alt=" Captura de Tela 2025-10-06 às 20.40.46.png" width="200" height="150" /></p>
+</td>
+<td style="text-align: center; height: 178px; width: 72.0929%;">
+<h1><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://itforum.com.br/noticias/ana-paula-assis-ibm/">De estagiária a VP global: a ascensão de Ana Paula Assis na IBM</a><br /><strong>(05 de setembro de 2025)</strong></span></h1>
+<h3><span style="font-size: 14pt; color: #0000ff;"> </span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_10.07.14.png" alt="Foto Anderson Soares" width="200" height="163" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://cartacampinas.com.br/2025/08/cafe-filosofico-recebe-anderson-soares-para-um-papo-sobre-tecnologia-inclusao-e-inteligencia-artificial/">Café Filosófico recebe Anderson Soares para um papo sobre tecnologia, inclusão e inteligência artificial </a><br /><strong>(25 de agosto de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_10.27.41.png" alt=" Captura de Tela 2025-10-01 às 10.27.41.png" width="200" height="142" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://goias.gov.br/inovacao/goias-lanca-epicentro-da-inteligencia-artificial-e-mira-lideranca-nacional-no-setor/">Goiás lança Epicentro da Inteligência Artificial e mira liderança nacional no setor</a><br /><strong>(5 de setembro de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_10.24.33.png" alt="2 milhoes IA" width="200" height="134" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://opopular.com.br/economia/programa-destina-r-2-milh-es-para-acelerar-startups-de-ia-1.3301560">Programa destina R$ 2 milhões para acelerar startups de IA</a><br /><strong>(18 de agosto de 2022)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_10.29.59.png" alt=" Captura de Tela 2025-10-01 às 10.29.59.png" width="200" height="132" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://vestibular.brasilescola.uol.com.br/noticias/curso-superior-inteligencia-artificial-ia-brasil-inscricao-vestibular-aberta/357945.html">Conheça como é o 1º curso superior de Inteligência Artificial (IA) do Brasil; <br />inscrição para vestibular da UFG está aberta </a><br /><strong>(04 de agosto de 2025)</strong><br /></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/175435740568915e9d6ab43_1754357405_3x2_md.jpg" alt="175435740568915e9d6ab43_1754357405_3x2_md.jpg" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3> </h3>
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www1.folha.uol.com.br/educacao/2025/08/ia-ganha-graduacoes-e-rivaliza-ate-com-medicina-na-disputa-por-vagas.shtml">IA ganha graduações e rivaliza até com medicina na disputa por vagas</a><br /><strong>(5 de agosto de 2025)</strong><br /><br /></span></h3>
+<h3> </h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/175435740668915e9e6e266_1754357406_3x2_md.jpg" alt="175435740668915e9e6e266_1754357406_3x2_md.jpg" width="200" height="133" /></td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www1.folha.uol.com.br/educacao/2025/08/conheca-opcoes-de-cursos-de-graduacao-em-inteligencia-artificial.shtml">Conheça opções de cursos de graduação em inteligência artificial</a><br /><strong>(5 de agosto de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.01.27.png" alt=" Captura de Tela 2025-10-01 às 15.01.27.png" width="200" height="129" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://tribunademinas.com.br/colunas/maistendencias/brasil-abre-inscricoes-para-1o-curso-superior-em-inteligencia-artificial/">Brasil abre inscrições para 1º curso superior em Inteligência Artificial </a><br /><strong>(5 de agosto de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/brasil-em-folhas-s-a-logo-png_seeklogo-223899.png" alt=" brasil-em-folhas-s-a-logo-png_seeklogo-223899.png" width="200" height="200" /></td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www1.brasilemfolhas.com.br/2025/06/candidato-a-vice-reitor-da-ufg-defende-gestao-participativa-e-eficiente/">Candidato a vice-reitor da UFG defende gestão participativa e eficiente</a> <br /><strong>(16 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 36px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.13.22.png" alt=" Captura de Tela 2025-10-01 às 15.13.22.png" width="200" height="149" /></p>
+</td>
+<td style="text-align: center; height: 36px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://sagresonline.com.br/candidato-a-vice-reitor-da-ufg-eliomar-araujo-quer-gestao-participativa-e-eficaz/">Candidato a vice-reitor da UFG, Eliomar Araújo quer gestão participativa e eficaz</a><br /><strong>(16 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.14.51.png" alt=" Captura de Tela 2025-10-01 às 15.14.51.png" width="200" height="131" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.tre-go.jus.br/comunicacao/noticias/2025/Junho/tre-go-apresenta-guaia-em-reuniao-do-cnj">TRE-GO apresenta GuaIA em reunião do CNJ</a><br /><strong>(12 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.16.07.png" alt=" Captura de Tela 2025-10-01 às 15.16.07.png" width="200" height="132" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://teletime.com.br/13/06/2025/anatel-e-ufg-pesquisa-web-3-0/">Anatel e UFG ampliam parceria e terão app contra fake news</a><br /><strong>(13 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 36px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.18.02.png" alt=" ZF6H3R6ZBFFHLG3MPBMLQUIYPQ.avif" width="200" height="115" /></p>
+</td>
+<td style="text-align: center; height: 36px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.estadao.com.br/link/inovacao/inteligencia-artificial-5-pontos-para-entender-os-impactos-e-potenciais-da-tecnologia-no-brasil/&amp;ct=ga&amp;cd=CAEYACoUMTQ3NjQwNTczNTc2MjA5MjIzNDEyHWJkMDJiY2YzZDg2M2FkMzc6Y29tLmJyOnB0OkJS&amp;usg=AOvVaw2ORAmqkMVGQJpWq6X0kuC_" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/url?rct%3Dj%26sa%3Dt%26url%3Dhttps://www.estadao.com.br/link/inovacao/inteligencia-artificial-5-pontos-para-entender-os-impactos-e-potenciais-da-tecnologia-no-brasil/%26ct%3Dga%26cd%3DCAEYACoUMTQ3NjQwNTczNTc2MjA5MjIzNDEyHWJkMDJiY2YzZDg2M2FkMzc6Y29tLmJyOnB0OkJS%26usg%3DAOvVaw2ORAmqkMVGQJpWq6X0kuC_&amp;source=gmail&amp;ust=1750327080543000&amp;usg=AOvVaw0dg2S5Of3eQFSrpIPSfl6J">Inteligência artificial: 5 pontos para entender os impactos e potenciais da tecnologia no Brasil</a><br /><strong>(14 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 36px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.56.04.png" alt=" Captura de Tela 2025-10-01 às 15.56.04.png" width="200" height="123" /></p>
+</td>
+<td style="text-align: center; height: 36px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jornalopcao.com.br/goiania/goias-conquista-o-mundo-da-inteligencia-artificial-com-supercomputadores-e-sotaque-brasileiro-716286/&amp;ct=ga&amp;cd=CAEYACoTMzA4ODYyMzg3ODEwNzk3MTU4NTIdOTYzZjQ4NzBmZTBiNTA4Yzpjb20uYnI6cHQ6QlI&amp;usg=AOvVaw10KiYxe1oIqX9DtipobNoM" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/url?rct%3Dj%26sa%3Dt%26url%3Dhttps://www.jornalopcao.com.br/goiania/goias-conquista-o-mundo-da-inteligencia-artificial-com-supercomputadores-e-sotaque-brasileiro-716286/%26ct%3Dga%26cd%3DCAEYACoTMzA4ODYyMzg3ODEwNzk3MTU4NTIdOTYzZjQ4NzBmZTBiNTA4Yzpjb20uYnI6cHQ6QlI%26usg%3DAOvVaw10KiYxe1oIqX9DtipobNoM&amp;source=gmail&amp;ust=1750327080520000&amp;usg=AOvVaw0NX-_i3wvH9wlYI-sg9Fu_">Goiás conquista o mundo da inteligência artificial com supercomputadores e sotaque brasileiro</a><br /><strong>(18 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.29.03.png" alt=" Captura de Tela 2025-10-01 às 15.29.03.png" width="200" height="123" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://g1.globo.com/go/goias/videos-bom-dia-go/video/ufg-desenvolve-um-modelo-de-inteligencia-artificial-voltado-para-brasileiros-13674540.ghtml">UFG desenvolve um modelo de inteligência artificial voltado para brasileiros</a><br /><strong>(12 de junho de 2025)</strong><br /><br /></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.40.36.png" alt=" Captura de Tela 2025-10-01 às 15.40.36.png" width="200" height="111" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=FvMu_AKMxUY">Google anuncia modelo de inteligência artificial em português </a><br /><strong>(12 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 36px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.42.26.png" alt=" Captura de Tela 2025-10-01 às 15.42.26.png" width="200" height="126" /></p>
+</td>
+<td style="text-align: center; height: 36px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://g1.globo.com/go/goias/noticia/2025/06/12/google-adota-inteligencia-artificial-em-portugues-desenvolvida-por-pesquisadores-goianos.ghtml">Google adota inteligência artificial em português desenvolvida por pesquisadores goianos</a> <br /><strong>(12 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 36px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.44.44.png" alt=" Captura de Tela 2025-10-01 às 15.44.44.png" width="200" height="144" /></p>
+</td>
+<td style="text-align: center; height: 36px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.jornalopcao.com.br/ultimas-noticias/google-e-ufg-lancam-gaia-inteligencia-artificial-em-portugues-que-promete-revolucionar-area-no-brasil-715517/#google_vignette">Google e UFG lançam Gaia, inteligência artificial em português que promete </a></span></h3>
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.jornalopcao.com.br/ultimas-noticias/google-e-ufg-lancam-gaia-inteligencia-artificial-em-portugues-que-promete-revolucionar-area-no-brasil-715517/#google_vignette">revolucionar área no Brasil</a><br /><strong>(11 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 36px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_15.48.35.png" alt=" Captura de Tela 2025-10-01 às 15.48.35.png" width="200" height="127" /></p>
+</td>
+<td style="text-align: center; height: 36px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://g1.globo.com/fantastico/noticia/2025/06/08/novos-videos-hiper-realistas-feitos-com-inteligencia-artificial-criam-desafio-de-distinguir-o-que-e-real.ghtml&amp;ct=ga&amp;cd=CAEYACoTNDI3ODY4MDg0MDM5OTcxNTIwNTIdYmQwMmJjZjNkODYzYWQzNzpjb20uYnI6cHQ6QlI&amp;usg=AOvVaw3qqo65owAOsQv3GXx_I712" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/url?rct%3Dj%26sa%3Dt%26url%3Dhttps://g1.globo.com/fantastico/noticia/2025/06/08/novos-videos-hiper-realistas-feitos-com-inteligencia-artificial-criam-desafio-de-distinguir-o-que-e-real.ghtml%26ct%3Dga%26cd%3DCAEYACoTNDI3ODY4MDg0MDM5OTcxNTIwNTIdYmQwMmJjZjNkODYzYWQzNzpjb20uYnI6cHQ6QlI%26usg%3DAOvVaw3qqo65owAOsQv3GXx_I712&amp;source=gmail&amp;ust=1749855670304000&amp;usg=AOvVaw3NUoFY3ftLPMiZUhhCG1K2">Novos vídeos hiper-realistas feitos com inteligência artificial criam desafio </a></span></h3>
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://g1.globo.com/fantastico/noticia/2025/06/08/novos-videos-hiper-realistas-feitos-com-inteligencia-artificial-criam-desafio-de-distinguir-o-que-e-real.ghtml&amp;ct=ga&amp;cd=CAEYACoTNDI3ODY4MDg0MDM5OTcxNTIwNTIdYmQwMmJjZjNkODYzYWQzNzpjb20uYnI6cHQ6QlI&amp;usg=AOvVaw3qqo65owAOsQv3GXx_I712" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/url?rct%3Dj%26sa%3Dt%26url%3Dhttps://g1.globo.com/fantastico/noticia/2025/06/08/novos-videos-hiper-realistas-feitos-com-inteligencia-artificial-criam-desafio-de-distinguir-o-que-e-real.ghtml%26ct%3Dga%26cd%3DCAEYACoTNDI3ODY4MDg0MDM5OTcxNTIwNTIdYmQwMmJjZjNkODYzYWQzNzpjb20uYnI6cHQ6QlI%26usg%3DAOvVaw3qqo65owAOsQv3GXx_I712&amp;source=gmail&amp;ust=1749855670304000&amp;usg=AOvVaw3NUoFY3ftLPMiZUhhCG1K2">de distinguir o que é real</a><br /><strong>(08 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/thmais1.png" alt=" thmais1.png" width="200" height="66" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://thmais.com.br/giro-de-noticias/governo-descarta-instalar-supercomputador-em-petropolis-apos-alerta-sobre-conta-de-luz-milionaria/&amp;ct=ga&amp;cd=CAEYACoUMTI2ODY3MDUxODY3MTA3MjUyODAyHWJkMDJiY2YzZDg2M2FkMzc6Y29tLmJyOnB0OkJS&amp;usg=AOvVaw1vZAXChlwJ3wqV4MfK_l2z" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.google.com/url?rct%3Dj%26sa%3Dt%26url%3Dhttps://thmais.com.br/giro-de-noticias/governo-descarta-instalar-supercomputador-em-petropolis-apos-alerta-sobre-conta-de-luz-milionaria/%26ct%3Dga%26cd%3DCAEYACoUMTI2ODY3MDUxODY3MTA3MjUyODAyHWJkMDJiY2YzZDg2M2FkMzc6Y29tLmJyOnB0OkJS%26usg%3DAOvVaw1vZAXChlwJ3wqV4MfK_l2z&amp;source=gmail&amp;ust=1749855667368000&amp;usg=AOvVaw01l5YvbxNXHxnnex3ZT1B6">Governo descarta instalar supercomputador em Petrópolis após alerta sobre conta de luz milionária</a><br /><strong>(11 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="height: 18px; text-align: center; width: 27.7561%;">
+<p> </p>
+<p><img src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_16.05.06.png" alt=" Captura de Tela 2025-10-01 às 16.05.06.png" width="200" height="145" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.estadao.com.br/150-anos/tecnologia-em-transformacao/ela-foi-a-primeira-formanda-em-ia-do-brasil-agora-quer-arrastar-mais-mulheres-para-a-area/#:~:text=Com%20o%20apoio%20da%20fam%C3%ADlia,de%20ingresso%20ganharia%20uma%20viagem."><span style="font-size: 14pt;">Ela foi a primeira formanda em IA do Brasil. Agora, quer arrastar mais mulheres para a área</span></a></span><br /><strong><span style="font-size: 14pt; color: #0000ff;">(6 de junho de 2025)</span></strong></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-01_a%CC%80s_16.08.34.png" alt=" Captura de Tela 2025-10-01 às 16.08.34.png" width="200" height="130" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://goias.gov.br/fapeg/fapeg-e-homenageada-pelos-5-anos-do-ceia-durante-o-conecta-2025/">Fapeg é homenageada pelos 5 anos do CEIA durante o Conecta 2025</a><br /><strong>(6 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/172444903566c9010baf31c_1724449035_3x2_xs.jpg" alt=" 172444903566c9010baf31c_1724449035_3x2_xs.jpg" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www1.folha.uol.com.br/tec/2025/06/grupo-de-goias-chamou-atencao-da-nvidia-e-caminha-para-ser-polo-de-ia-no-brasil.shtml">Grupo de Goiás chamou a atenção da Nvidia e caminha para ser polo de IA no Brasil</a><br /><strong>(5 de junho de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/unnamed_69.2e16d0ba.fill-1200x630.jpg" alt=" unnamed_69.2e16d0ba.fill-1200x630.jpg" width="200" height="105" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.datacenterdynamics.com/br/not%C3%ADcias/ufg-inaugura-laborat%C3%B3rio-focado-em-tecnologias-imersivas-ia-e-computa%C3%A7%C3%A3o-avan%C3%A7ada/">UFG inaugura laboratório voltado a tecnologias imersivas, IA e computação avançada</a><br /><strong>(12 de maio de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/image-16.png" alt=" image-16.png" width="200" height="134" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.andifes.org.br/2025/05/09/ufg-inaugura-laboratorio-avancado-de-tecnologias-imersivas/">UFG inaugura Laboratório Avançado de Tecnologias Imersivas - Andifes</a><br /><strong>(09 de maio de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/9d8ec481-c9e1-4e87-a315-f5e34a4fffa7.jpeg" alt=" 9d8ec481-c9e1-4e87-a315-f5e34a4fffa7.jpeg" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2025/05/mcti-marca-presenca-em-novo-centro-de-tecnologias-imersivas-da-ufg">MCTI marca presença em novo centro de tecnologias imersivas da UFG - Portal Gov.br</a><br /><strong>(08 de maio de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 19px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/unnamed.png" alt=" unnamed.png" width="200" height="200" /></p>
+</td>
+<td style="text-align: center; height: 19px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.cbngoiania.com.br/cbn-goiania/universidade-federal-de-goias-cria-plataforma-para-detectar-fake-news-1.2813043">Universidade Federal de Goiás cria plataforma para detectar fake news - CBN Goiânia</a><br /><strong>(12 de abril de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/seucreditodigital.com.br-itau-deixa-nubank-para-tras-e-retoma-lideranca-como-banco-mais-valioso-da-america-latina-itau-nubank.jpg" alt=" seucreditodigital.com.br-itau-deixa-nubank-para-tras-e-retoma-lideranca-como-banco-mais-valioso-da-america-latina-itau-nubank.jpg" width="200" height="123" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://seucreditodigital.com.br/itau-lanca-instituto-ciencia-tecnologia/">Itaú lança centro de pesquisa em colaboração com universidades brasileiras e estrangeiras</a><br /><strong>(10 de abril de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.01.09.png" alt=" Captura de Tela 2025-10-02 às 14.01.09.png" width="200" height="150" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://finsidersbrasil.com.br/giro-noticias/itau-lanca-instituto-de-ciencia-e-tecnologia-para-acelerar-inovacoes-no-setor-financeiro/">Itaú lança Instituto de Ciência e Tecnologia para acelerar inovações no setor financeiro</a><br /><strong>(10 de abril de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.03.35.png" alt=" Captura de Tela 2025-10-02 às 14.03.35.png" width="200" height="130" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://consumidormoderno.com.br/itau-instituto-pesquisa-tecnologia/">Itaú Unibanco lança instituto para pesquisas em tecnologia, com foco em IA</a><br /><strong>(10 de abril de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.05.27.png" alt=" Captura de Tela 2025-10-02 às 14.05.27.png" width="200" height="131" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://revistapegn.globo.com/tecnologia/noticia/2025/04/itau-lanca-centro-de-pesquisa-com-foco-em-ia-computacao-quantica-e-tecnologias-emergentes.ghtml">Itaú lança centro de pesquisa com foco em IA, computação quântica e tecnologias emergentes</a><br /><strong>(10 de abril de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.07.26.png" alt=" Captura de Tela 2025-10-02 às 14.07.26.png" width="200" height="125" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www1.brasilemfolhas.com.br/2025/04/itau-lanca-instituto-de-tecnologia-com-50-pesquisas-em-ia-e-computacao-quantica/">Itaú lança instituto de tecnologia com 50 pesquisas em IA e computação quântica</a><br /><strong>(10 de abril de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/20250520121811_provoca.png" alt=" 20250520121811_provoca.png" width="200" height="134" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://cultura.uol.com.br/noticias/71922_marcelo-tas-entrevista-especialista-em-inteligencia-artificial-no-provoca-desta-terca-feira-20.html">Marcelo Tas entrevista especialista em Inteligência Artificial no Provoca desta terça-feira (20)</a><br /><strong>(16 de maio de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/20250520121811_provoca.png" alt=" 20250520121811_provoca.png" width="200" height="134" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.ouniversodatv.com/2025/05/no-provoca-anderson-soares-especialista.html">No Provoca, Anderson Soares, especialista em inteligência artificial, diz: ''Eu acho que hoje nós já somos particularmente reféns da tecnologia''</a><br /><strong>(17 de maio de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/54513545387_a6d102272d_c.jpg" alt=" 54513545387_a6d102272d_c.jpg" width="200" height="146" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://tudooknoticias.com.br/goias-propoe-primeira-lei-estadual-do-brasil-para-regulamentar-e-fomentar-a-inteligencia-artificial/">Goiás propõe primeira lei estadual do Brasil para regulamentar e fomentar a inteligência artificial</a><br /><strong>(13 de maio de 2025)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Sem-titulo-1.png" alt=" Sem-titulo-1.png" width="200" height="174" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://stgnews.com.br/ufg-e-gamer-latam-assinam-protocolo-de-intencoes-para-iniciativas-na-area-de-e-sports/">UFG e Gamer Latam assinam protocolo de intenções para iniciativas na área de e-Sport</a><br /><strong>(<a style="color: #0000ff;" href="https://stgnews.com.br/ufg-e-gamer-latam-assinam-protocolo-de-intencoes-para-iniciativas-na-area-de-e-sports/">13 de novembro de 2024</a>)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/equipe-goiana-se-classifica-para-o-mundial-de-robotica.jpg" alt=" equipe-goiana-se-classifica-para-o-mundial-de-robotica.jpg" width="200" height="128" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://goias.gov.br/casacivil/equipes-goianas-se-classificam-para-o-campeonato-mundial-de-robotica/#:~:text=A%20equipe%20Brainbots%2C%20formada%20por,do%20Col%C3%A9gio%20Veratz%2C%20de%20Catal%C3%A3o."><span style="font-size: 14pt;">Equipe goiana se classifica para o mundial de robótica<br /><strong>(19 de novembro de 2024)</strong></span></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="height: 211px; width: 27.7561%;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/08c8f666188bfeae22ec764ea9c53915_17320468556933_1266102203.jpg" alt=" 08c8f666188bfeae22ec764ea9c53915_17320468556933_1266102203.jpg" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 211px; width: 72.0929%;">
+<h3><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www3.ufmg.br/comunicacao/noticias/escola-de-enfermagem-promove-blitz-educativa-para-prevencao-do-cancer-de-prostata"><span style="font-size: 14pt;">Escola de Enfermagem promove blitz educativa para prevenção do câncer de próstata<br /><strong>(20 de novembro de 2024)</strong></span></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/315ad205-6532-4239-936e-ddb852472124.webp" alt=" 315ad205-6532-4239-936e-ddb852472124.webp" width="200" height="133" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://exame.com/inteligencia-artificial/centro-de-ia-da-ufg-destaca-desafios-para-o-plano-nacional-de-inteligencia-artificial/">Centro de IA da UFG destaca desafios para o Plano Nacional de Inteligência Artificial <br />- Revista Exame <br /><strong>(23 de agosto de 2024)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.23.33.png" alt=" Captura de Tela 2025-10-02 às 14.23.33.png" width="200" height="157" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=9SvBEvNz-eg">Inteligência Artificial na minha vida. Onde está? Ela esta me influenciando? <br />Preciso ter cuidado? Arlindo Galvão <br /><strong>(16 de agosto de 2024)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.27.55.png" alt=" Captura de Tela 2025-10-02 às 14.27.55.png" width="200" height="113" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=sKgKL-RbugQ">Tráfego Aéreo - UFG usa inteligência artificial em estudo de mobilidade | <br />MUNDO UFG - Arlindo Galvão e Ronaldo Costa <br /><strong>(12 de julho de 2023)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.34.34.png" alt=" Captura de Tela 2025-10-02 às 14.34.34.png" width="200" height="138" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=mD5E9cj-jDA">Arlindo Galvão e Carlos André - SHOW DA MANHÃ <br /><strong>(28 de maio de 2024)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.41.56.png" alt=" Captura de Tela 2025-10-02 às 14.41.56.png" width="200" height="113" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=Bw74xt0jvmI">RICARDO FRANCO E ARLINDO GALVÃO - SHOW DA MANHÃ - 25/08/22</a><br /><strong>(25 de outubro de 2022)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_14.46.45.png" alt=" Captura de Tela 2025-10-02 às 14.46.45.png" width="200" height="111" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=9C6D-TIpToA">Palestra: ChatGPT, uma nova era na inteligência artificial capaz de "conversar" com as pessoas - Anderson Soares e Arlindo Galvão <br /><strong>(28 de fevereiro de 2023)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_21.51.42.png" alt=" Captura de Tela 2025-10-02 às 21.51.42.png" width="200" height="102" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=0C7AOhKS4IU">Brasil lidera uso do ChatGPT na América Latina - Celso Camilo <br /><strong>(17 de outubro de 2024)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_21.55.17.png" alt=" Captura de Tela 2025-10-02 às 21.51.42.png" width="200" height="113" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=_sNpHtnuFEw">Celso Camilo e Felipe Melazzo - SHOW DA MANHÃ </a><br /><strong>(11 de março de 2024)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_21.57.23.png" alt=" Captura de Tela 2025-10-02 às 21.57.23.png" width="200" height="114" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=X3E4u8T2k4I">SHOW DA MANHÃ - Celso Camilo</a> <br /><strong>(22 de janeiro de 2024)</strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_21.59.17.png" alt=" Captura de Tela 2025-10-02 às 21.59.17.png" width="200" height="111" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="color: #0000ff;"><span style="font-size: 14pt;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=EcgKQgVRiCw">SHOW DA MANHÃ - Celso Camilo</a><br /><strong>(</strong></span><strong><span style="font-size: 14pt;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=EcgKQgVRiCw">23 de outubro de 2023)</a></span></strong></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_22.01.22.png" alt=" Captura de Tela 2025-10-02 às 22.01.22.png" width="200" height="112" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=osuejXCmneM">CELSO CAMILO - SHOW DA MANHÃ <br /><strong>(06 de setembro de 2022)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 18px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_22.03.33.png" alt=" Captura de Tela 2025-10-02 às 22.03.33.png" width="200" height="114" /></p>
+</td>
+<td style="text-align: center; height: 18px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=dFAeCNGuO4U">Entrevista com Celso Camilo- Secretário Municipal de Tecnologia | II Mostra UFG de Inovação <br /><strong>(28 de outubro de 2019)</strong></a></span></h3>
+</td>
+</tr>
+<tr style="background-color: #f1f1f1;">
+<td style="width: 27.7561%; height: 17px;">
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://files.cercomp.ufg.br/weby/up/1218/o/Captura_de_Tela_2025-10-02_a%CC%80s_22.08.05.png" alt=" Captura de Tela 2025-10-02 às 22.08.05.png" width="200" height="119" /></p>
+</td>
+<td style="text-align: center; height: 17px; width: 72.0929%;">
+<h3><span style="font-size: 14pt; color: #0000ff;"><a style="color: #0000ff;" href="https://www.youtube.com/watch?v=psGxrh_SIJQ">Se Liga na UFG! - Ciência e Cultura - Completo - Celso Camilo (chefe de gabinete Sedete) <br /><strong>(11 de fev. de 2019)</strong></a></span></h3>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><span> </span></p>
