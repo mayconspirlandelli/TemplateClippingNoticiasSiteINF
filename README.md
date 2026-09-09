@@ -50,6 +50,21 @@ clipping/
 
 > **Dica:** mantenha a quantidade de destaques múltipla de 4 (ex.: 12) para o carrossel ficar com páginas completas.
 
+## Incorporar em outro site (sem conflitos)
+
+Todo o template é **namespaced** para não conflitar com o site hospedeiro:
+
+- **HTML**: tudo dentro do wrapper `<div class="clip-clipping">…</div>`
+- **CSS**: todas as classes usam o prefixo `clip-` (ex.: `clip-header`, `clip-news-card`)
+- **IDs**: todos usam o prefixo `clipping-` (ex.: `clipping-search`, `clipping-destaques-grid`)
+- **Reset**: `margin`, `padding` e `box-sizing` são aplicados apenas em `.clip-clipping *`, sem afetar o resto da página
+
+Para incorporar:
+
+1. Copie o conteúdo do `<div class="clip-clipping">…</div>` de `index.html` para dentro da página alvo.
+2. Inclua o conteúdo de `style.css` no CSS do site (ou importe o arquivo).
+3. Inclua o conteúdo de `script.js` no final do `<body>` (ou importe o arquivo).
+
 ## Manutenção
 
 - **Dados** ficam no topo de `script.js`, no objeto `clipping`, separados do design.

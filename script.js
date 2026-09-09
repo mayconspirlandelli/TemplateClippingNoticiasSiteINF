@@ -759,33 +759,33 @@ const clipping = {
     ]
 };
 
-const carrosselTrack = document.getElementById("destaquesGrid");
-const listaNoticias = document.getElementById("newsList");
-const emptyState = document.getElementById("emptyState");
-const destaqueArea = document.getElementById("destaquesArea");
-const selectCategoria = document.getElementById("categoria");
-const inputBusca = document.getElementById("search");
-const prevBtn = document.getElementById("prevBtn");
-const nextBtn = document.getElementById("nextBtn");
-const carouselDots = document.getElementById("carouselDots");
+const carrosselTrack = document.getElementById("clipping-destaques-grid");
+const listaNoticias = document.getElementById("clipping-news-list");
+const emptyState = document.getElementById("clipping-empty");
+const destaqueArea = document.getElementById("clipping-destaques-area");
+const selectCategoria = document.getElementById("clipping-categoria");
+const inputBusca = document.getElementById("clipping-search");
+const prevBtn = document.getElementById("clipping-prev");
+const nextBtn = document.getElementById("clipping-next");
+const carouselDots = document.getElementById("clipping-dots");
 
 let paginaAtual = 0;
 
 function criarCard(noticia) {
     const card = document.createElement("article");
-    card.className = "news-card";
+    card.className = "clip-news-card";
 
     card.innerHTML = `
-        <img src="${noticia.imagem}" alt="${noticia.titulo}" class="news-image">
-        <div class="news-content">
-            <span class="news-source">${noticia.veiculo}</span>
-            <span class="news-category">${noticia.categoria}</span>
-            <h2 class="news-title">${noticia.titulo}</h2>
-            <p class="news-description">${noticia.subtitulo}</p>
-            <div class="news-meta">
+        <img src="${noticia.imagem}" alt="${noticia.titulo}" class="clip-news-image">
+        <div class="clip-news-content">
+            <span class="clip-news-source">${noticia.veiculo}</span>
+            <span class="clip-news-category">${noticia.categoria}</span>
+            <h2 class="clip-news-title">${noticia.titulo}</h2>
+            <p class="clip-news-description">${noticia.subtitulo}</p>
+            <div class="clip-news-meta">
                 <span>${noticia.data}</span>
             </div>
-            <a href="${noticia.url}" target="_blank" rel="noopener" class="news-link">
+            <a href="${noticia.url}" target="_blank" rel="noopener" class="clip-news-link">
                 Ler notícia →
             </a>
         </div>
@@ -796,15 +796,15 @@ function criarCard(noticia) {
 
 function criarItemLista(noticia) {
     const item = document.createElement("div");
-    item.className = "list-item";
+    item.className = "clip-list-item";
 
     item.innerHTML = `
-        <span class="list-item-source">${noticia.veiculo}</span>
-        <a class="list-item-title" href="${noticia.url}" target="_blank" rel="noopener">
+        <span class="clip-list-item-source">${noticia.veiculo}</span>
+        <a class="clip-list-item-title" href="${noticia.url}" target="_blank" rel="noopener">
             ${noticia.titulo}
         </a>
-        <span class="list-item-category">${noticia.categoria}</span>
-        <span class="list-item-date">${noticia.data}</span>
+        <span class="clip-list-item-category">${noticia.categoria}</span>
+        <span class="clip-list-item-date">${noticia.data}</span>
     `;
 
     return item;
@@ -850,7 +850,7 @@ function renderizarCarrossel() {
     for (let i = 0; i < paginas; i++) {
         const dot = document.createElement("button");
         dot.type = "button";
-        dot.className = "carousel-dot" + (i === paginaAtual ? " active" : "");
+        dot.className = "clip-carousel-dot" + (i === paginaAtual ? " active" : "");
         dot.setAttribute("aria-label", `Ir para página ${i + 1}`);
 
         dot.addEventListener("click", () => {
@@ -887,10 +887,10 @@ function atualizarResumo(noticias) {
     const categorias = new Set(noticias.map(n => n.categoria)).size;
     const destaques = noticias.filter(n => n.destaque).length;
 
-    document.getElementById("totalNoticias").textContent = noticias.length;
-    document.getElementById("totalVeiculos").textContent = veiculos;
-    document.getElementById("totalCategorias").textContent = categorias;
-    document.getElementById("totalDestaques").textContent = destaques;
+    document.getElementById("clipping-total-noticias").textContent = noticias.length;
+    document.getElementById("clipping-total-veiculos").textContent = veiculos;
+    document.getElementById("clipping-total-categorias").textContent = categorias;
+    document.getElementById("clipping-total-destaques").textContent = destaques;
 }
 
 function preencherFiltroCategorias(noticias) {
@@ -913,7 +913,7 @@ function renderClipping(lista) {
     atualizarResumo(lista);
 }
 
-document.getElementById("clippingData").textContent = clipping.data.toUpperCase();
+document.getElementById("clipping-data").textContent = clipping.data.toUpperCase();
 
 preencherFiltroCategorias(clipping.noticias);
 renderClipping(clipping.noticias);

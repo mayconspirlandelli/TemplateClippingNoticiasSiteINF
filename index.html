@@ -9,94 +9,99 @@
 </head>
 <body>
 
-    <header class="header">
-        <div class="container header-content">
-            <div>
-                <span class="eyebrow">INSTITUTO DE INFORMÁTICA — UFG</span>
-                <h1 id="clippingTitulo">Clipping de Notícias</h1>
-                <p>O que saiu na mídia sobre a universidade, em um só lugar.</p>
-            </div>
-            <div class="date" id="clippingData"></div>
-        </div>
-    </header>
+    <div class="clip-clipping">
 
-    <main class="container">
+        <header class="clip-header">
+            <div class="clip-container clip-header-content">
+                <div>
+                    <span class="clip-eyebrow">INSTITUTO DE INFORMÁTICA — UFG</span>
+                    <h1 class="clip-title" id="clipping-titulo">Clipping de Notícias</h1>
+                    <p class="clip-header-descricao">O que saiu na mídia sobre a universidade, em um só lugar.</p>
+                </div>
+                <div class="clip-date" id="clipping-data"></div>
+            </div>
+        </header>
 
-        <!-- RESUMO GERAL -->
-        <section class="summary" aria-label="Resumo geral">
-            <div class="summary-card">
-                <span>Notícias</span>
-                <strong id="totalNoticias">0</strong>
-            </div>
-            <div class="summary-card">
-                <span>Veículos</span>
-                <strong id="totalVeiculos">0</strong>
-            </div>
-            <div class="summary-card">
-                <span>Categorias</span>
-                <strong id="totalCategorias">0</strong>
-            </div>
-            <div class="summary-card">
-                <span>Destaques</span>
-                <strong id="totalDestaques">0</strong>
-            </div>
-        </section>
+        <main class="clip-container">
 
-        <!-- BUSCA E FILTROS -->
-        <section class="toolbar" aria-label="Busca e filtros">
-            <input
-                type="search"
-                id="search"
-                placeholder="Buscar notícia por título, resumo ou veículo..."
-                autocomplete="off"
-            >
-            <select id="categoria">
-                <option value="">Todas as categorias</option>
-            </select>
-        </section>
+            <!-- RESUMO GERAL -->
+            <section class="clip-summary" aria-label="Resumo geral">
+                <div class="clip-summary-card">
+                    <span>Notícias</span>
+                    <strong id="clipping-total-noticias">0</strong>
+                </div>
+                <div class="clip-summary-card">
+                    <span>Veículos</span>
+                    <strong id="clipping-total-veiculos">0</strong>
+                </div>
+                <div class="clip-summary-card">
+                    <span>Categorias</span>
+                    <strong id="clipping-total-categorias">0</strong>
+                </div>
+                <div class="clip-summary-card">
+                    <span>Destaques</span>
+                    <strong id="clipping-total-destaques">0</strong>
+                </div>
+            </section>
 
-        <!-- DESTAQUES -->
-        <section id="destaquesArea">
-            <div class="section-heading">
-                <h2>Destaques</h2>
-                <span class="rule"></span>
-            </div>
+            <!-- BUSCA E FILTROS -->
+            <section class="clip-toolbar" aria-label="Busca e filtros">
+                <input
+                    type="search"
+                    id="clipping-search"
+                    class="clip-search-input"
+                    placeholder="Buscar notícia por título, resumo ou veículo..."
+                    autocomplete="off"
+                >
+                <select id="clipping-categoria" class="clip-categoria-select">
+                    <option value="">Todas as categorias</option>
+                </select>
+            </section>
 
-            <div class="carousel">
-                <div class="carousel-viewport">
-                    <div class="carousel-track" id="destaquesGrid"></div>
+            <!-- DESTAQUES -->
+            <section id="clipping-destaques-area">
+                <div class="clip-section-heading">
+                    <h2>Destaques</h2>
+                    <span class="clip-rule"></span>
                 </div>
 
-                <div class="carousel-controls">
-                    <button class="carousel-arrow" id="prevBtn" type="button" aria-label="Anterior">
-                        <span aria-hidden="true">&lsaquo;</span>
-                    </button>
-                    <div class="carousel-dots" id="carouselDots"></div>
-                    <button class="carousel-arrow" id="nextBtn" type="button" aria-label="Próximo">
-                        <span aria-hidden="true">&rsaquo;</span>
-                    </button>
+                <div class="clip-carousel">
+                    <div class="clip-carousel-viewport">
+                        <div class="clip-carousel-track" id="clipping-destaques-grid"></div>
+                    </div>
+
+                    <div class="clip-carousel-controls">
+                        <button class="clip-carousel-arrow" id="clipping-prev" type="button" aria-label="Anterior">
+                            <span aria-hidden="true">&lsaquo;</span>
+                        </button>
+                        <div class="clip-carousel-dots" id="clipping-dots"></div>
+                        <button class="clip-carousel-arrow" id="clipping-next" type="button" aria-label="Próximo">
+                            <span aria-hidden="true">&rsaquo;</span>
+                        </button>
+                    </div>
                 </div>
+            </section>
+
+            <!-- OUTRAS NOTÍCIAS -->
+            <section class="clip-section-heading">
+                <h2>Outras notícias</h2>
+                <span class="clip-rule"></span>
+            </section>
+            <section class="clip-news-list" id="clipping-news-list"></section>
+
+            <section class="clip-empty-state" id="clipping-empty" hidden>
+                <p>Nenhuma notícia encontrada.</p>
+            </section>
+
+        </main>
+
+        <footer class="clip-footer">
+            <div class="clip-container">
+                <p>Template de clipping jornalístico — INF/UFG.</p>
             </div>
-        </section>
+        </footer>
 
-        <!-- OUTRAS NOTÍCIAS -->
-        <section class="section-heading">
-            <h2>Outras notícias</h2>
-            <span class="rule"></span>
-        </section>
-        <section class="news-list" id="newsList"></section>
-
-        <section class="empty-state" id="emptyState" hidden>
-            <p>Nenhuma notícia encontrada.</p>
-        </section>
-
-    </main>
-
-    <footer>
-        <div class="container">
-            <p>Template de clipping jornalístico — INF/UFG.</p>
-        </div>
-    </footer>
+    </div>
 
     <script src="script.js"></script>
 </body>

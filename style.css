@@ -1,55 +1,71 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/* ==========================================================
+   Template de Clipping de Notícias — INF/UFG
+   Todos os seletores são escopados em .clip-clipping para
+   poderem ser incorporados a qualquer site sem conflitos.
+   ========================================================== */
 
-body {
+.clip-clipping {
+
+    /* RESET ESCOPADO */
+
     font-family: Arial, Helvetica, sans-serif;
     background: #f5f5f3;
     color: #202020;
     line-height: 1.5;
 }
 
-.container {
+.clip-clipping * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clip-clipping img {
+    max-width: 100%;
+    display: block;
+}
+
+/* CONTAINER */
+
+.clip-container {
     width: min(1200px, 92%);
     margin: 0 auto;
 }
 
 /* HEADER */
 
-.header {
+.clip-header {
     background: #ffffff;
     border-bottom: 4px solid #2e5b8f;
     padding: 40px 0;
 }
 
-.header-content {
+.clip-header-content {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
     gap: 20px;
 }
 
-.eyebrow {
+.clip-eyebrow {
     font-size: 12px;
     font-weight: bold;
     letter-spacing: 2px;
     color: #777;
 }
 
-h1 {
+.clip-title {
     font-size: 42px;
     margin: 8px 0;
     line-height: 1.1;
 }
 
-.header p {
+.clip-header-descricao {
     color: #666;
     margin-top: 12px;
 }
 
-.date {
+.clip-date {
     font-size: 14px;
     font-weight: bold;
     color: #2e5b8f;
@@ -60,21 +76,21 @@ h1 {
 
 /* RESUMO */
 
-.summary {
+.clip-summary {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 16px;
     margin: 35px 0;
 }
 
-.summary-card {
+.clip-summary-card {
     background: white;
     padding: 20px;
     border: 1px solid #ddd;
     border-top: 3px solid #2e5b8f;
 }
 
-.summary-card span {
+.clip-summary-card span {
     display: block;
     color: #777;
     font-size: 13px;
@@ -82,7 +98,7 @@ h1 {
     letter-spacing: 1px;
 }
 
-.summary-card strong {
+.clip-summary-card strong {
     display: block;
     font-size: 32px;
     margin-top: 5px;
@@ -91,40 +107,41 @@ h1 {
 
 /* FILTROS */
 
-.toolbar {
+.clip-toolbar {
     display: flex;
     gap: 15px;
     margin-bottom: 30px;
 }
 
-.toolbar input,
-.toolbar select {
+.clip-search-input,
+.clip-categoria-select {
     padding: 13px 15px;
     border: 1px solid #ccc;
     background: white;
     font-size: 14px;
     border-radius: 4px;
     font-family: inherit;
+    color: #202020;
 }
 
-.toolbar input {
+.clip-search-input {
     flex: 1;
 }
 
-.toolbar select {
+.clip-categoria-select {
     min-width: 220px;
 }
 
 /* CABEÇALHO DE SEÇÃO */
 
-.section-heading {
+.clip-section-heading {
     display: flex;
     align-items: center;
     gap: 15px;
     margin: 35px 0 18px;
 }
 
-.section-heading h2 {
+.clip-section-heading h2 {
     font-size: 17px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -132,7 +149,7 @@ h1 {
     white-space: nowrap;
 }
 
-.section-heading .rule {
+.clip-rule {
     flex: 1;
     height: 1px;
     background: #ddd;
@@ -140,38 +157,38 @@ h1 {
 
 /* DESTAQUES — CARROSSEL */
 
-.carousel {
+.clip-carousel {
     position: relative;
 }
 
-.carousel-viewport {
+.clip-carousel-viewport {
     overflow: hidden;
 }
 
-.carousel-track {
+.clip-carousel-track {
     display: flex;
     transition: transform .45s ease;
 }
 
-.carousel-track .news-card {
+.clip-carousel-track .clip-news-card {
     flex: 0 0 25%;
     padding: 0 12px;
     min-width: 0;
 }
 
-.carousel-track .news-card:first-child {
+.clip-carousel-track .clip-news-card:first-child {
     padding-left: 0;
 }
 
-.carousel-track .news-card:last-child {
+.clip-carousel-track .clip-news-card:last-child {
     padding-right: 0;
 }
 
-.carousel-track .news-image {
+.clip-carousel-track .clip-news-image {
     height: 160px;
 }
 
-.carousel-controls {
+.clip-carousel-controls {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -179,7 +196,7 @@ h1 {
     margin-top: 22px;
 }
 
-.carousel-arrow {
+.clip-carousel-arrow {
     width: 40px;
     height: 40px;
     border: 1px solid #2e5b8f;
@@ -195,22 +212,22 @@ h1 {
     transition: background .15s, color .15s;
 }
 
-.carousel-arrow:hover:not(:disabled) {
+.clip-carousel-arrow:hover:not(:disabled) {
     background: #2e5b8f;
     color: white;
 }
 
-.carousel-arrow:disabled {
+.clip-carousel-arrow:disabled {
     opacity: .35;
     cursor: default;
 }
 
-.carousel-dots {
+.clip-carousel-dots {
     display: flex;
     gap: 8px;
 }
 
-.carousel-dot {
+.clip-carousel-dot {
     width: 10px;
     height: 10px;
     padding: 0;
@@ -221,13 +238,13 @@ h1 {
     transition: background .15s;
 }
 
-.carousel-dot.active {
+.clip-carousel-dot.active {
     background: #2e5b8f;
 }
 
 /* CARD */
 
-.news-card {
+.clip-news-card {
     display: flex;
     flex-direction: column;
     background: white;
@@ -236,26 +253,26 @@ h1 {
     transition: transform .2s, box-shadow .2s;
 }
 
-.news-card:hover {
+.clip-news-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 10px 25px rgba(0,0,0,.08);
 }
 
-.news-image {
+.clip-news-image {
     width: 100%;
     height: 200px;
     object-fit: cover;
     background: #eee;
 }
 
-.news-content {
+.clip-news-content {
     display: flex;
     flex-direction: column;
     flex: 1;
     padding: 20px;
 }
 
-.news-source {
+.clip-news-source {
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
@@ -263,8 +280,9 @@ h1 {
     color: #2e5b8f;
 }
 
-.news-category {
+.clip-news-category {
     display: inline-block;
+    align-self: flex-start;
     background: #eef1f5;
     color: #2e5b8f;
     font-size: 11px;
@@ -276,20 +294,20 @@ h1 {
     border-radius: 3px;
 }
 
-.news-title {
+.clip-news-title {
     font-size: 21px;
     line-height: 1.25;
     margin: 10px 0;
 }
 
-.news-description {
+.clip-news-description {
     color: #666;
     font-size: 14px;
     line-height: 1.5;
     flex: 1;
 }
 
-.news-meta {
+.clip-news-meta {
     display: flex;
     justify-content: space-between;
     margin-top: 18px;
@@ -297,24 +315,25 @@ h1 {
     color: #888;
 }
 
-.news-link {
+.clip-news-link {
     display: inline-block;
+    align-self: flex-start;
     margin-top: 18px;
     color: #111;
     font-weight: bold;
     text-decoration: none;
     border-bottom: 2px solid #2e5b8f;
     padding-bottom: 2px;
-    align-self: flex-start;
 }
 
-.news-link:hover {
+.clip-news-link:hover {
     color: #2e5b8f;
+    text-decoration: none;
 }
 
 /* LISTA DE OUTRAS NOTÍCIAS */
 
-.news-list {
+.clip-news-list {
     display: flex;
     flex-direction: column;
     gap: 1px;
@@ -322,7 +341,7 @@ h1 {
     border: 1px solid #ddd;
 }
 
-.list-item {
+.clip-list-item {
     display: flex;
     align-items: center;
     gap: 18px;
@@ -331,11 +350,11 @@ h1 {
     transition: background .15s;
 }
 
-.list-item:hover {
+.clip-list-item:hover {
     background: #f7f9fc;
 }
 
-.list-item-source {
+.clip-list-item-source {
     font-size: 12px;
     font-weight: bold;
     text-transform: uppercase;
@@ -344,24 +363,24 @@ h1 {
     min-width: 110px;
 }
 
-.list-item-title {
+.clip-list-item-title {
     flex: 1;
     font-size: 15px;
     color: #202020;
     text-decoration: none;
 }
 
-.list-item-title:hover {
+.clip-list-item-title:hover {
     text-decoration: underline;
 }
 
-.list-item-category {
+.clip-list-item-category {
     font-size: 11px;
     color: #999;
     white-space: nowrap;
 }
 
-.list-item-date {
+.clip-list-item-date {
     font-size: 13px;
     color: #888;
     white-space: nowrap;
@@ -371,7 +390,7 @@ h1 {
 
 /* ESTADO VAZIO */
 
-.empty-state {
+.clip-empty-state {
     text-align: center;
     padding: 60px 20px;
     background: white;
@@ -381,7 +400,7 @@ h1 {
 
 /* FOOTER */
 
-footer {
+.clip-footer {
     margin-top: 60px;
     padding: 30px 0;
     border-top: 1px solid #ddd;
@@ -393,7 +412,7 @@ footer {
 
 @media (max-width: 900px) {
 
-    .summary {
+    .clip-summary {
         grid-template-columns: repeat(2, 1fr);
     }
 
@@ -401,39 +420,39 @@ footer {
 
 @media (max-width: 600px) {
 
-    .header-content {
+    .clip-header-content {
         flex-direction: column;
         align-items: flex-start;
         gap: 20px;
     }
 
-    h1 {
+    .clip-title {
         font-size: 32px;
     }
 
-    .summary {
+    .clip-summary {
         grid-template-columns: 1fr 1fr;
     }
 
-    .toolbar {
+    .clip-toolbar {
         flex-direction: column;
     }
 
-    .toolbar select {
+    .clip-categoria-select {
         min-width: 0;
     }
 
-    .list-item {
+    .clip-list-item {
         flex-wrap: wrap;
         gap: 8px 14px;
     }
 
-    .list-item-title {
+    .clip-list-item-title {
         flex-basis: 100%;
         order: -1;
     }
 
-    .list-item-date {
+    .clip-list-item-date {
         min-width: 0;
         text-align: left;
     }
