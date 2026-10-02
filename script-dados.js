@@ -1,11 +1,71 @@
 "use strict";
 
-const clipping = {
+window.infUfgClippingDados = {
     instituicao: "Instituto de Informática — UFG",
     titulo: "Clipping de Notícias",
     data: "08 de setembro de 2026",
 
     noticias: [
+        {
+            veiculo: "Jornal Opção",
+            titulo: "CEIA-UFG pode integrar projetos da ABDI para ampliar uso de IA no país",
+            subtitulo: "A estrutura de inteligência artificial da Universidade Federal de Goiás (UFG) pode ganhar espaço em projetos de alcance nacional. O presidente da Agência Brasileira de Desenvolvimento Industrial (ABDI), Olavo Noleto, visitou o Centro de Excelência em Inteligência Artificial (CEIA-UFG) na sexta-feira, 18, e apontou a unidade como possível parceira em iniciativas voltadas às áreas de saúde, desenvolvimento social e minerais críticos.",
+            imagem: "https://cdn.jornalopcao.com.br/assets/2026/09/19155121/1789833077-whatsapp-image-2026-09-19-at-11-58-49.webp",
+            url: "https://www.jornalopcao.com.br/ultimas-noticias/ceia-ufg-pode-integrar-projetos-da-abdi-para-ampliar-uso-de-ia-no-pais-869826/",
+            data: "19/09/2026",
+            categoria: "Inteligência Artificial",
+            destaque: true
+        },
+        {
+            veiculo: "Jornal Opção",
+            titulo: "Mais de 700 estudantes disputam Olimpíada de Robótica em Goiás neste fim de semana",
+            subtitulo: "Competidores terão de programar robôs autônomos para resgatar vítimas em cenários simulados e realizar apresentações artísticas; classificados avançam para etapa nacional",
+            imagem: "https://cdn.jornalopcao.com.br/assets/2026/09/11193325/1789155198-captura-de-tela-2026-09-11-as-16-32-51.webp",
+            url: "https://www.jornalopcao.com.br/ultimas-noticias/mais-de-700-estudantes-disputam-olimpiada-de-robotica-em-goias-neste-fim-de-semana-867173/",
+            data: "11/09/2026",
+            categoria: "Educação",
+            destaque: true
+        },
+        {
+            veiculo: "A Redação",
+            titulo: "Goiás recebe etapa estadual da Olimpíada Brasileira de Robótica",
+            subtitulo: "Evento ocorre neste fim de semana na UFG",
+            imagem: "https://aredacao.com.br/wp-content/uploads/2026/09/robotica-1536x1023.jpg",
+            url: "https://aredacao.com.br/goias-recebe-etapa-estadual-da-olimpiada-brasileira-de-robotica/",
+            data: "14/09/2026",
+            categoria: "Educação",
+            destaque: false
+        },
+        {
+            veiculo: "O TEMPO",
+            titulo: "UFG autoriza missões internacionais para docentes e nomeia novos professores",
+            subtitulo: "Portarias publicadas no Diário Oficial da União autorizam afastamentos internacionais e formalizam a nomeação de novos docentes da Universidade Federal de Goiás.",
+            imagem: "https://www.otempo.com.br/adobe/dynamicmedia/deliver/dm-aid--5de8f313-2c5b-457e-84c3-28290ee75c39/ufg-autoriza-missoes-internacionais-para-docentes-e-nomeia-novos-professores.jpg?quality=90&width=1200&preferwebp=true",
+            url: "https://www.otempo.com.br/politica/2026/9/2/ufg-autoriza-missoes-internacionais-para-docentes-e-nomeia-novos-professores",
+            data: "02/09/2026",
+            categoria: "Universidade",
+            destaque: false
+        },
+        {
+            veiculo: "UFRN",
+            titulo: "Tecnologia imersiva",
+            subtitulo: "Tecnologia imersiva ganha espaço em pesquisas e iniciativas da Universidade Federal do Rio Grande do Norte.",
+            imagem: "https://wp.info.ufrn.br/admin/portal-ufrn/wp-content/uploads/sites/3/2026/09/prof-Alyson.jpg",
+            url: "https://www.ufrn.br/imprensa/reportagens-e-saberes/104909/tecnologia-imersiva",
+            data: "08/09/2026",
+            categoria: "Tecnologia",
+            destaque: true
+        },
+        {
+            veiculo: "A Redação",
+            titulo: "Fundador do Ceia-UFG palestra sobre “Ciência, políticas públicas e tecnologias do futuro”",
+            subtitulo: "Fala ocorre no Hub Goiás em Goiânia nesta quarta-feira (9/9).",
+            imagem: "https://aredacao.com.br/wp-content/uploads/2026/08/Anderson-Soares.-CEIA-Dino-Arato-3-1024x683.jpg",
+            url: "https://aredacao.com.br/fundador-do-ceia-ufg-palestra-sobre-ciencia-politicas-publicas-e-tecnologias-do-futuro",
+            data: "08/09/2026",
+            categoria: "Tecnologia",
+            destaque: true
+        },
         {
             veiculo: "G1",
             titulo: "Google adota inteligência artificial em português desenvolvida por pesquisadores goianos",
